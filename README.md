@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ByRxorty</h1>
 <h3 align="center">I'm from Turkey and minecraft dev developer and jeva developer</h3>
 
+<img align="rifht" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byrxorty&label=Profile%20views&color=0e75b6&style=flat" alt="byrxorty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=byrxorty" alt="byrxorty" /></a> </p>
