@@ -1,21 +1,31 @@
-<h1 align="center">Hi ❔, I'm Riyonalibs</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center"><img src="https://i.hizliresim.com/bw1f5bs.png" style="width:30px"> RabeL Code <img src="https://i.hizliresim.com/bw1f5bs.png" style="width:30px"><br> Herkes için kod paylaşım ve destek topluluğu</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyonalibs&label=Profile%20views&color=00b3ff&style=flat" alt="riyonalibs" /> </p>
+<br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyonalibs" alt="riyonalibs" /></a> </p>
+## `✨` Biz kimiz?
+- Biz herkesin ulaşabileceği ve paylaşım yapabileceği bir kod destek topluluğuyuz, herkesin botları için en güzel komut ve sistemlere ulaşabilmesi için günden güne çalışmamızı devam ettiriyoruz. En büyük hayalimiz herkesin profosyenel botlara sahip olması ve detek alabilmesi.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/ri̇yonali̇bs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ri̇yonali̇bs" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/AK7nd77q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/AK7nd77q" height="30" width="40" /></a>
-</p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## `🧑‍💻` Geliştiricilerimiz
+<div align="center" style="justify-content-items:center; display:flex; color:white; text-design:none;">
+  <kbd>
+  <a href="https://github.com/GweepCreative" target="_blank">
+    <img src="https://github.com/GweepCreative.png?size=80" style="border-radius:50%">
+  </a>
+  </kbd>
+    <kbd>
+  <a href="https://github.com/raqzid" target="_blank">
+    <img src="https://github.com/raqzid.png?size=80" style="border-radius:50%">
+  </a>
+</kbd>
+  <kbd>
+  <a href="https://github.com/tunardev" target="_blank">
+    <img src="https://github.com/tunardev.png?size=80" style="border-radius:50%">
+  </a>
+    </kbd>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyonalibs&show_icons=true&theme=dark&locale=en&layout=compact" alt="riyonalibs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyonalibs&show_icons=true&theme=dark&locale=en" alt="riyonalibs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyonalibs&theme=dark" alt="riyonalibs" /></p>
+---
+<p align="center"><img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px"> <a target="_blank" href="https://github.com/GweepCreative">Gweep Creative</a> ve <a target="_blank" href="https://github.com/raqzid">raqzid</a> tarafından Oluşturuldu, Tasarlandı, Geliştirildi. <img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px"></p>
+<p align="center">Teşekkürler <a target="_blank" href="https://github.com/tunardev">TunarDev</a></p>
