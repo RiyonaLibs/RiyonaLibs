@@ -27,5 +27,5 @@
 </div>
 
 ---
-<p align="center"><img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px"> <a target="_blank" href="https://github.com/GweepCreative">Gweep Creative</a> ve <a target="_blank" href="https://github.com/raqzid">raqzid</a> tarafından Oluşturuldu, Tasarlandı, Geliştirildi. <img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px"></p>
+<p align="center"><img src="[https://i.hizliresim.com/bw1f5bs.png](https://cdn.discordapp.com/attachments/1003582393728389160/1173155778320932914/bw1f5bs_kopya.png?ex=6562ed75&is=65507875&hm=ca4487efb35aad8da1286d8799506cdde70553b021843984656d968e6d3657c5&)" style="width:10px"> <a target="_blank" href="https://github.com/Abuzer">Gweep Creative</a> ve <a target="_blank" href="https://github.com/Abuzer">raqzid</a> tarafından Oluşturuldu, Tasarlandı, Geliştirildi. <img src="https://i.hizliresim.com/bw1f5bs.png" style="width:10px"></p>
 <p align="center">Teşekkürler <a target="_blank" href="https://github.com/riyonalibs">RiyonaLibs</a></p>
