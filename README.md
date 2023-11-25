@@ -6,5 +6,3 @@
 - Biz herkesin ulaşabileceği ve destek yapabileceği bir pilex bot destek topluluğuyuz, herkesin botları için en güzel komut ve sistemlere ulaşabilmesi için günden güne çalışmamızı devam ettiriyoruz. En büyük hayalimiz herkesin profosyenel botlara sahip olması ve detek alabilmesi.
 
 <br />
-
-<p align="center">Teşekkürler <a target="_blank" href="https://github.com/riyonalibs">RiyonaLibs</a></p>
